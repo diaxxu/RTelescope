@@ -16,7 +16,7 @@ Rocky V1 is a motorized, dual axis Alt Azimuth Dobsonian-style telescope mount t
 - **Electronics** : an ESP32-DevKitC drives two TMC2209 SilentStepStick modules (one per axis). MS1/MS2 on both drivers are hardware-strapped to lock in native 1/32 stepping, which the TMC2209 internally interpolates up to a smooth 1/256 microstep curve.
 - **Power** : single 24V input through a screw terminal block, with 100µF electrolytic caps next to each driver's VM pin to absorb back-EMF spikes during fast GOTO slews.
 
-
+---
 
 # Electronics 
 
@@ -48,7 +48,7 @@ Using cost-effective and available components to build a telescope tracking syst
 
 ![Alt text](Image/3d.png)
 
-
+---
 # Telescope 
 
 For this telescope, I chose a 150mm primary mirror to catch more light, combined with a 30mm secondary and a 6mm eyepiece. This setup provides a really sharp picture of the moon and can easily see the rings of Saturn. It’s also super convenient because the upper assembly can extend and retract with built-in limiters. Plus, it's fully motorized with NEMA 17 motors for 2-axis movement (altitude and azimuth), and it's incredibly smooth since both axes have really high reduction ratios.
@@ -58,7 +58,7 @@ For this telescope, I chose a 150mm primary mirror to catch more light, combined
 
 ![alt text](Image/front.png)
 
-
+---
 ## How to use it 
 
 ### Step 1: Primary and Secondary Optical Assembly
@@ -107,22 +107,36 @@ For this telescope, I chose a 150mm primary mirror to catch more light, combined
 ### Wire Diagram 
 ![alt text](Image/dia.png)
 
+---
 
 # BOM 
 revised bill of materials
 see the full version in BOM.csv
 
+| Item | Qty | Price (USD) | Info |
+| :--- | :---: | :---: | :--- |
+| Primary, secondary telescope mirrors | 1 | $60.25 | 150F750 + 30mm |
+| Focuser | 1 | $21.37 | Focuser by adjusting the eyepiece |
+| Eyepiece | 1 | $56.58 | 6mm |
+| Finder scope | 1 | $9.81 | |
+| PVC tube | 1 | $9.06 | 200mm diameter |
+| Teflon pads | 8 | $7.11 | For removing friction |
+| 3D printing shipping | 1 | $40.00 | Shipping from Legion |
+| TMC2209 | 2 | $14.24 | Driving the steppers |
+| PCB | 5 | $13.04 | From JLCPCB with coupons |
+| Tube | 1 | $5.86 | The extruding tube 4m 10mm |
+| MDF WOOD for mounts | 1 | $21.31 | Wood to make the mounts |
+| Laser cutting fee | 1 | $30.00 | Laser cut the mdf wood |
+| ESP32 WROOM32 | 1 | $3.22 | |
+| Capacitors | 10 | $6.28 | 100uF electrolytic |
+| Stepper motor | 2 | $29.80 | NEMA 17 |
+| Screws, nuts | 1 | $20.54 | M6 nuts and screws and M3 |
+| Washers | 20 | $3.22 | |
+| Black paint aerosol | 1 | $5.22 | To paint the interior of PVC black |
+| Silicone adhesive | 1 | $2.93 | Glueing the primary mirrors |
+| **TOTAL** | | **$359.84 USD** | |
 
-
-
-
-
-
-
-
-
-
-
+---
 
 # Pics
 
@@ -132,13 +146,7 @@ see the full version in BOM.csv
 ![alt text](Image/render2.png)
 
 
-
-
-
-
-
-
-
+---
 ## License
 
 MIT License, see LICENSE.
