@@ -1,0 +1,1488 @@
+*PADS-LOGIC-V9.0-CP936* from EasyEDA Pro
+*SCH*
+BORDER NAME Drawing-Symbol_A4
+*SHT* 2 1_P1 -1 $$$NONE
+*TEXT*
+*LINES*
+Drawing-Symbol_A4 LINES 0 0 122 41
+OPEN 2 10 255
+4680 1810
+5737 1810
+OPEN 2 10 255
+5737 1810
+5737 1410
+OPEN 2 10 255
+5737 1410
+4680 1410
+OPEN 2 10 255
+4680 1410
+4680 1810
+OPEN 2 10 255
+5737 1810
+9381 1810
+OPEN 2 10 255
+9381 1810
+9381 1410
+OPEN 2 10 255
+9381 1410
+5737 1410
+OPEN 2 10 255
+5737 1410
+5737 1810
+OPEN 2 10 255
+9381 1810
+10184 1810
+OPEN 2 10 255
+10184 1810
+10184 1610
+OPEN 2 10 255
+10184 1610
+9381 1610
+OPEN 2 10 255
+9381 1610
+9381 1810
+OPEN 2 10 255
+10184 1810
+11690 1810
+OPEN 2 10 255
+11690 1810
+11690 1610
+OPEN 2 10 255
+11690 1610
+10184 1610
+OPEN 2 10 255
+10184 1610
+10184 1810
+OPEN 2 10 255
+9381 1610
+10184 1610
+OPEN 2 10 255
+10184 1610
+10184 1410
+OPEN 2 10 255
+10184 1410
+9381 1410
+OPEN 2 10 255
+9381 1410
+9381 1610
+OPEN 2 10 255
+10184 1610
+11690 1610
+OPEN 2 10 255
+11690 1610
+11690 1410
+OPEN 2 10 255
+11690 1410
+10184 1410
+OPEN 2 10 255
+10184 1410
+10184 1610
+OPEN 2 10 255
+4680 1410
+5737 1410
+OPEN 2 10 255
+5737 1410
+5737 1210
+OPEN 2 10 255
+5737 1210
+4680 1210
+OPEN 2 10 255
+4680 1210
+4680 1410
+OPEN 2 10 255
+5737 1410
+9381 1410
+OPEN 2 10 255
+9381 1410
+9381 1210
+OPEN 2 10 255
+9381 1210
+5737 1210
+OPEN 2 10 255
+5737 1210
+5737 1410
+OPEN 2 10 255
+9381 1410
+10184 1410
+OPEN 2 10 255
+10184 1410
+10184 1210
+OPEN 2 10 255
+10184 1210
+9381 1210
+OPEN 2 10 255
+9381 1210
+9381 1410
+OPEN 2 10 255
+10184 1410
+11690 1410
+OPEN 2 10 255
+11690 1410
+11690 1210
+OPEN 2 10 255
+11690 1210
+10184 1210
+OPEN 2 10 255
+10184 1210
+10184 1410
+OPEN 2 10 255
+4680 1210
+5737 1210
+OPEN 2 10 255
+5737 1210
+5737 1010
+OPEN 2 10 255
+5737 1010
+4680 1010
+OPEN 2 10 255
+4680 1010
+4680 1210
+OPEN 2 10 255
+5737 1210
+6863 1210
+OPEN 2 10 255
+6863 1210
+6863 1010
+OPEN 2 10 255
+6863 1010
+5737 1010
+OPEN 2 10 255
+5737 1010
+5737 1210
+OPEN 2 10 255
+6863 1210
+11690 1210
+OPEN 2 10 255
+11690 1210
+11690 610
+OPEN 2 10 255
+11690 610
+6863 610
+OPEN 2 10 255
+6863 610
+6863 1210
+OPEN 2 10 255
+4680 1010
+5737 1010
+OPEN 2 10 255
+5737 1010
+5737 810
+OPEN 2 10 255
+5737 810
+4680 810
+OPEN 2 10 255
+4680 810
+4680 1010
+OPEN 2 10 255
+5737 1010
+6863 1010
+OPEN 2 10 255
+6863 1010
+6863 810
+OPEN 2 10 255
+6863 810
+5737 810
+OPEN 2 10 255
+5737 810
+5737 1010
+OPEN 2 10 255
+4680 810
+5737 810
+OPEN 2 10 255
+5737 810
+5737 610
+OPEN 2 10 255
+5737 610
+4680 610
+OPEN 2 10 255
+4680 610
+4680 810
+OPEN 2 10 255
+5737 810
+6863 810
+OPEN 2 10 255
+6863 810
+6863 610
+OPEN 2 10 255
+6863 610
+5737 610
+OPEN 2 10 255
+5737 610
+5737 810
+OPEN 2 10 255
+4680 610
+5737 610
+OPEN 2 10 255
+5737 610
+5737 410
+OPEN 2 10 255
+5737 410
+4680 410
+OPEN 2 10 255
+4680 410
+4680 610
+OPEN 2 10 255
+5737 610
+6863 610
+OPEN 2 10 255
+6863 610
+6863 410
+OPEN 2 10 255
+6863 410
+5737 410
+OPEN 2 10 255
+5737 410
+5737 610
+OPEN 2 10 255
+6863 610
+7789 610
+OPEN 2 10 255
+7789 610
+7789 410
+OPEN 2 10 255
+7789 410
+6863 410
+OPEN 2 10 255
+6863 410
+6863 610
+OPEN 2 10 255
+7789 610
+8532 610
+OPEN 2 10 255
+8532 610
+8532 410
+OPEN 2 10 255
+8532 410
+7789 410
+OPEN 2 10 255
+7789 410
+7789 610
+OPEN 2 10 255
+8532 610
+11690 610
+OPEN 2 10 255
+11690 610
+11690 410
+OPEN 2 10 255
+11690 410
+8532 410
+OPEN 2 10 255
+8532 410
+8532 610
+OPEN 2 10 255
+4680 410
+6863 410
+OPEN 2 10 255
+6863 410
+6863 10
+OPEN 2 10 255
+6863 10
+4680 10
+OPEN 2 10 255
+4680 10
+4680 410
+OPEN 2 10 255
+6863 410
+7789 410
+OPEN 2 10 255
+7789 410
+7789 10
+OPEN 2 10 255
+7789 10
+6863 10
+OPEN 2 10 255
+6863 10
+6863 410
+OPEN 2 10 255
+7789 410
+8532 410
+OPEN 2 10 255
+8532 410
+8532 10
+OPEN 2 10 255
+8532 10
+7789 10
+OPEN 2 10 255
+7789 10
+7789 410
+OPEN 2 10 255
+8532 410
+11690 410
+OPEN 2 10 255
+11690 410
+11690 10
+OPEN 2 10 255
+11690 10
+8532 10
+OPEN 2 10 255
+8532 10
+8532 410
+CLOSED 5 10 255
+0 8250
+11700 8250
+11700 0
+0 0
+0 8250
+CLOSED 5 10 255
+100 8150
+11600 8150
+11600 100
+100 100
+100 8150
+OPEN 2 10 255
+1950 0
+1950 100
+OPEN 2 10 255
+1950 8250
+1950 8150
+OPEN 2 10 255
+3900 0
+3900 100
+OPEN 2 10 255
+3900 8250
+3900 8150
+OPEN 2 10 255
+5850 0
+5850 100
+OPEN 2 10 255
+5850 8250
+5850 8150
+OPEN 2 10 255
+7800 0
+7800 100
+OPEN 2 10 255
+7800 8250
+7800 8150
+OPEN 2 10 255
+9750 0
+9750 100
+OPEN 2 10 255
+9750 8250
+9750 8150
+OPEN 2 10 255
+0 6188
+100 6188
+OPEN 2 10 255
+11700 6188
+11600 6188
+OPEN 2 10 255
+0 4125
+100 4125
+OPEN 2 10 255
+11700 4125
+11600 4125
+OPEN 2 10 255
+0 2063
+100 2063
+OPEN 2 10 255
+11700 2063
+11600 2063
+4680 1610 0 8 208 10 0 "Regular 宋体"
+Schematic
+7559 1610 0 12 278 10 0 "Regular 宋体"
+Schematic1
+9381 1710 0 8 208 10 0 "Regular 宋体"
+Create at
+10184 1710 0 8 208 10 0 "Regular 宋体"
+2026-06-26
+9381 1510 0 8 208 10 0 "Regular 宋体"
+Update at
+10184 1510 0 8 208 10 0 "Regular 宋体"
+2026-06-26
+4680 1310 0 8 208 10 0 "Regular 宋体"
+Board
+7559 1310 0 12 208 10 0 "Regular 宋体"
+Board1
+9381 1310 0 8 208 10 0 "Regular 宋体"
+Page
+10184 1310 0 8 208 10 0 "Regular 宋体"
+P1
+4680 1110 0 8 208 10 0 "Regular 宋体"
+Drawn
+5737 1110 0 8 208 10 0 "Regular 宋体"
+*
+9276 910 0 12 278 10 0 "Regular 宋体"
+telescope
+4680 910 0 8 208 10 0 "Regular 宋体"
+Reviewed
+5737 910 0 8 208 10 0 "Regular 宋体"
+*
+7326 510 0 12 208 10 0 "Regular 宋体"
+Version
+8161 510 0 12 208 10 0 "Regular 宋体"
+Size
+10111 510 0 12 208 10 0 "Regular 宋体"
+Page  1  Total  1
+7326 210 0 12 208 10 0 "Regular 宋体"
+V1.0
+8161 210 0 12 208 10 0 "Regular 宋体"
+A4
+10111 210 0 12 208 10 0 "Regular 宋体"
+EasyEDA.com
+975 50 0 12 139 10 0 "Regular 宋体"
+1
+975 8200 0 12 139 10 0 "Regular 宋体"
+1
+2925 50 0 12 139 10 0 "Regular 宋体"
+2
+2925 8200 0 12 139 10 0 "Regular 宋体"
+2
+4875 50 0 12 139 10 0 "Regular 宋体"
+3
+4875 8200 0 12 139 10 0 "Regular 宋体"
+3
+6825 50 0 12 139 10 0 "Regular 宋体"
+4
+6825 8200 0 12 139 10 0 "Regular 宋体"
+4
+8775 50 0 12 139 10 0 "Regular 宋体"
+5
+8775 8200 0 12 139 10 0 "Regular 宋体"
+5
+10725 50 0 12 139 10 0 "Regular 宋体"
+6
+10725 8200 0 12 139 10 0 "Regular 宋体"
+6
+50 7219 0 12 139 10 0 "Regular 宋体"
+A
+11650 7219 0 12 139 10 0 "Regular 宋体"
+A
+50 5156 0 12 139 10 0 "Regular 宋体"
+B
+11650 5156 0 12 139 10 0 "Regular 宋体"
+B
+50 3094 0 12 139 10 0 "Regular 宋体"
+C
+11650 3094 0 12 139 10 0 "Regular 宋体"
+C
+50 1031 0 12 139 10 0 "Regular 宋体"
+D
+11650 1031 0 12 139 10 0 "Regular 宋体"
+D
+$$Line1 LINES 0 0 1 0
+CLOSED 5 10 255
+4750 8000
+11550 8000
+11550 2500
+4750 2500
+4750 8000
+$$Line2 LINES 0 0 1 0
+CLOSED 5 10 255
+300 5250
+4700 5250
+4700 2500
+300 2500
+300 5250
+$$Line3 LINES 0 0 1 0
+CLOSED 5 10 255
+300 8000
+4700 8000
+4700 5350
+300 5350
+300 8000
+*CAEDECAL*
+PIN 0 0 100 10 100 10 2 1 0 0 0 1
+TIMESTAMP 2026.06.27.17.08.29
+"Default Font"
+"Default Font"
+0 0 0 0 94 6 0 "Regular default"
+PART-TYPE
+0 0 0 0 94 6 0 "Regular default"
+REF-DES
+OPEN 2 10 255
+0 0
+100 0
+ESP32-DEVKITC 0 0 100 10 100 10 2 1 0 38 0 0
+TIMESTAMP 2026.06.27.17.08.29
+"Default Font"
+"Default Font"
+0 0 0 0 9 1 0 "Regular default"
+PART-TYPE
+0 0 0 0 14 10 0 "Regular 宋体"
+REF-DES
+CLOSED 5 10 255
+-350 1000
+350 1000
+350 -1000
+-350 -1000
+-350 1000
+T-450 900 0 0 50 10 0 4 110 -30 0 0 PIN
+P-100 0 0 1 0 0 0 0 128
+T-450 800 0 0 50 10 0 4 110 -30 0 0 PIN
+P-100 0 0 1 0 0 0 0 128
+T-450 700 0 0 50 10 0 4 110 -30 0 0 PIN
+P-100 0 0 1 0 0 0 0 128
+T-450 600 0 0 50 10 0 4 110 -30 0 0 PIN
+P-100 0 0 1 0 0 0 0 128
+T-450 500 0 0 50 10 0 4 110 -30 0 0 PIN
+P-100 0 0 1 0 0 0 0 128
+T-450 400 0 0 50 10 0 4 110 -30 0 0 PIN
+P-100 0 0 1 0 0 0 0 128
+T-450 300 0 0 50 10 0 4 110 -30 0 0 PIN
+P-100 0 0 1 0 0 0 0 128
+T-450 200 0 0 50 10 0 4 110 -30 0 0 PIN
+P-100 0 0 1 0 0 0 0 128
+T-450 100 0 0 50 10 0 4 110 -30 0 0 PIN
+P-100 0 0 1 0 0 0 0 128
+T-450 0 0 0 50 10 0 4 110 -30 0 0 PIN
+P-100 0 0 1 0 0 0 0 128
+T-450 -100 0 0 50 10 0 4 110 -30 0 0 PIN
+P-100 0 0 1 0 0 0 0 128
+T-450 -200 0 0 50 10 0 4 110 -30 0 0 PIN
+P-100 0 0 1 0 0 0 0 128
+T-450 -300 0 0 50 10 0 4 110 -30 0 0 PIN
+P-100 0 0 1 0 0 0 0 128
+T-450 -400 0 0 50 10 0 4 110 -30 0 0 PIN
+P-100 0 0 1 0 0 0 0 128
+T-450 -500 0 0 50 10 0 4 110 -30 0 0 PIN
+P-100 0 0 1 0 0 0 0 128
+T-450 -600 0 0 50 10 0 4 110 -30 0 0 PIN
+P-100 0 0 1 0 0 0 0 128
+T-450 -700 0 0 50 10 0 4 110 -30 0 0 PIN
+P-100 0 0 1 0 0 0 0 128
+T-450 -800 0 0 50 10 0 4 110 -30 0 0 PIN
+P-100 0 0 1 0 0 0 0 128
+T-450 -900 0 0 50 10 0 4 110 -30 0 0 PIN
+P-100 0 0 1 0 0 0 0 128
+T450 900 0 1 50 10 0 4 110 -30 0 0 PIN
+P-100 0 0 1 0 0 0 0 128
+T450 800 0 1 50 10 0 4 110 -30 0 0 PIN
+P-100 0 0 1 0 0 0 0 128
+T450 700 0 1 50 10 0 4 110 -30 0 0 PIN
+P-100 0 0 1 0 0 0 0 128
+T450 600 0 1 50 10 0 4 110 -30 0 0 PIN
+P-100 0 0 1 0 0 0 0 128
+T450 500 0 1 50 10 0 4 110 -30 0 0 PIN
+P-100 0 0 1 0 0 0 0 128
+T450 400 0 1 50 10 0 4 110 -30 0 0 PIN
+P-100 0 0 1 0 0 0 0 128
+T450 300 0 1 50 10 0 4 110 -30 0 0 PIN
+P-100 0 0 1 0 0 0 0 128
+T450 200 0 1 50 10 0 4 110 -30 0 0 PIN
+P-100 0 0 1 0 0 0 0 128
+T450 100 0 1 50 10 0 4 110 -30 0 0 PIN
+P-100 0 0 1 0 0 0 0 128
+T450 0 0 1 50 10 0 4 110 -30 0 0 PIN
+P-100 0 0 1 0 0 0 0 128
+T450 -100 0 1 50 10 0 4 110 -30 0 0 PIN
+P-100 0 0 1 0 0 0 0 128
+T450 -200 0 1 50 10 0 4 110 -30 0 0 PIN
+P-100 0 0 1 0 0 0 0 128
+T450 -300 0 1 50 10 0 4 110 -30 0 0 PIN
+P-100 0 0 1 0 0 0 0 128
+T450 -400 0 1 50 10 0 4 110 -30 0 0 PIN
+P-100 0 0 1 0 0 0 0 128
+T450 -500 0 1 50 10 0 4 110 -30 0 0 PIN
+P-100 0 0 1 0 0 0 0 128
+T450 -600 0 1 50 10 0 4 110 -30 0 0 PIN
+P-100 0 0 1 0 0 0 0 128
+T450 -700 0 1 50 10 0 4 110 -30 0 0 PIN
+P-100 0 0 1 0 0 0 0 128
+T450 -800 0 1 50 10 0 4 110 -30 0 0 PIN
+P-100 0 0 1 0 0 0 0 128
+T450 -900 0 1 50 10 0 4 110 -30 0 0 PIN
+P-100 0 0 1 0 0 0 0 128
+TMC2209SILENTSTEPSTICK 0 0 100 10 100 10 2 1 0 18 0 0
+TIMESTAMP 2026.06.27.17.08.29
+"Default Font"
+"Default Font"
+0 0 0 0 9 1 0 "Regular default"
+PART-TYPE
+0 0 0 0 14 10 0 "Regular 宋体"
+REF-DES
+CLOSED 5 10 255
+-350 500
+350 500
+350 -500
+-350 -500
+-350 500
+T-450 400 0 0 50 10 0 4 110 -30 0 0 PIN
+P-100 0 0 1 0 0 0 0 128
+T-450 300 0 0 50 10 0 4 110 -30 0 0 PIN
+P-100 0 0 1 0 0 0 0 128
+T-450 200 0 0 50 10 0 4 110 -30 0 0 PIN
+P-100 0 0 1 0 0 0 0 128
+T-450 100 0 0 50 10 0 4 110 -30 0 0 PIN
+P-100 0 0 1 0 0 0 0 128
+T-450 0 0 0 50 10 0 4 110 -30 0 0 PIN
+P-100 0 0 1 0 0 0 0 128
+T-450 -100 0 0 50 10 0 4 110 -30 0 0 PIN
+P-100 0 0 1 0 0 0 0 128
+T-450 -200 0 0 50 10 0 4 110 -30 0 0 PIN
+P-100 0 0 1 0 0 0 0 128
+T-450 -300 0 0 50 10 0 4 110 -30 0 0 PIN
+P-100 0 0 1 0 0 0 0 128
+T450 400 0 1 50 10 0 4 110 -30 0 0 PIN
+P-100 0 0 1 0 0 0 0 128
+T450 300 0 1 50 10 0 4 110 -30 0 0 PIN
+P-100 0 0 1 0 0 0 0 128
+T450 200 0 1 50 10 0 4 110 -30 0 0 PIN
+P-100 0 0 1 0 0 0 0 128
+T450 100 0 1 50 10 0 4 110 -30 0 0 PIN
+P-100 0 0 1 0 0 0 0 128
+T450 0 0 1 50 10 0 4 110 -30 0 0 PIN
+P-100 0 0 1 0 0 0 0 128
+T450 -100 0 1 50 10 0 4 110 -30 0 0 PIN
+P-100 0 0 1 0 0 0 0 128
+T450 -200 0 1 50 10 0 4 110 -30 0 0 PIN
+P-100 0 0 1 0 0 0 0 128
+T450 -300 0 1 50 10 0 4 110 -30 0 0 PIN
+P-100 0 0 1 0 0 0 0 128
+T-50 -600 90 0 50 10 0 4 110 -30 0 0 PIN
+P-100 0 0 1 0 0 0 0 128
+T50 -600 90 0 50 10 0 4 110 -30 0 0 PIN
+P-100 0 0 1 0 0 0 0 128
+1988804 0 0 100 10 100 10 2 1 0 2 0 0
+TIMESTAMP 2026.06.27.17.08.29
+"Default Font"
+"Default Font"
+0 0 0 0 9 1 0 "Regular default"
+PART-TYPE
+0 0 0 0 14 10 0 "Regular 宋体"
+REF-DES
+CLOSED 5 10 255
+-100 150
+100 150
+100 -150
+-100 -150
+-100 150
+T-200 50 0 0 50 10 0 4 110 -30 0 0 PIN
+P-100 0 0 1 0 0 0 0 128
+T-200 -50 0 0 50 10 0 4 110 -30 0 0 PIN
+P-100 0 0 1 0 0 0 0 128
+B6B-XH-AM-(LF)(SN) 0 0 100 10 100 10 2 2 0 6 0 0
+TIMESTAMP 2026.06.27.17.08.29
+"Default Font"
+"Default Font"
+0 0 0 0 9 1 0 "Regular default"
+PART-TYPE
+0 0 0 0 14 10 0 "Regular 宋体"
+REF-DES
+CLOSED 5 10 255
+-100 350
+200 350
+200 -350
+-100 -350
+-100 350
+CIRCLE 2 10 255
+-60 325
+-90 325
+T-200 250 0 0 50 10 0 4 110 -30 0 0 PIN
+P-100 0 0 1 0 0 0 0 128
+T-200 150 0 0 50 10 0 4 110 -30 0 0 PIN
+P-100 0 0 1 0 0 0 0 128
+T-200 50 0 0 50 10 0 4 110 -30 0 0 PIN
+P-100 0 0 1 0 0 0 0 128
+T-200 -50 0 0 50 10 0 4 110 -30 0 0 PIN
+P-100 0 0 1 0 0 0 0 128
+T-200 -150 0 0 50 10 0 4 110 -30 0 0 PIN
+P-100 0 0 1 0 0 0 0 128
+T-200 -250 0 0 50 10 0 4 110 -30 0 0 PIN
+P-100 0 0 1 0 0 0 0 128
+100UF35V8X11GF 0 0 100 10 100 10 2 6 0 2 0 0
+TIMESTAMP 2026.06.27.17.08.29
+"Default Font"
+"Default Font"
+0 0 0 0 9 1 0 "Regular default"
+PART-TYPE
+0 0 0 0 14 10 0 "Regular 宋体"
+REF-DES
+OPEN 2 10 255
+-20 70
+-20 -70
+OPEN 2 10 255
+-100 0
+-20 0
+OPEN 2 10 255
+20 0
+100 0
+OPEN 2 10 255
+-90 50
+-50 50
+OPEN 2 10 255
+-70 70
+-70 30
+OPEN 2 10 255
+44 -69 2238 -883 17 -100 217 100
+45 70
+T-200 0 0 0 50 10 0 4 110 -30 0 0 PIN
+P-100 0 0 1 0 0 0 0 128
+T200 0 0 1 50 10 0 4 110 -30 0 0 PIN
+P-100 0 0 1 0 0 0 0 128
+Ground-GND 0 0 100 10 100 10 2 4 0 1 26 0
+TIMESTAMP 2026.06.27.17.08.29
+"Default Font"
+"Default Font"
+0 0 0 0 9 1 0 "Regular default"
+PART-TYPE
+0 0 0 0 9 1 0 "Regular default"
+REF-DES
+OPEN 2 10 255
+-100 -100
+100 -100
+OPEN 2 10 255
+-10 -190
+10 -190
+OPEN 2 10 255
+-40 -160
+40 -160
+OPEN 2 10 255
+-70 -130
+70 -130
+T0 0 90 2 50 10 0 4 110 -30 0 0 PIN
+P-100 0 0 1 0 0 0 0 128
+*PARTTYPE*
+ESP32-DEVKITC UND 1 0 0 0
+TIMESTAMP 2026.06.27.17.08.29
+GATE 1 38 0
+ESP32-DEVKITC
+1 0 U 3V3
+2 0 U EN
+3 0 U VP
+4 0 U VN
+5 0 U IO34
+6 0 U IO35
+7 0 U IO32
+8 0 U IO33
+9 0 U IO25
+10 0 U IO26
+11 0 U IO27
+12 0 U IO14
+13 0 U IO12
+14 0 U GND
+15 0 U IO13
+16 0 U D2
+17 0 U D3
+18 0 U CMD
+19 0 U 5V
+20 0 U GND
+21 0 U IO23
+22 0 U IO22
+23 0 U TX
+24 0 U RX
+25 0 U IO21
+26 0 U GND
+27 0 U IO19
+28 0 U IO18
+29 0 U IO5
+30 0 U IO17
+31 0 U IO16
+32 0 U IO4
+33 0 U IO0
+34 0 U IO2
+35 0 U IO15
+36 0 U D1
+37 0 U D0
+38 0 U CLK
+TMC2209SILENTSTEPSTICK UND 1 0 0 0
+TIMESTAMP 2026.06.27.17.08.29
+GATE 1 18 0
+TMC2209SILENTSTEPSTICK
+1 0 U GND
+2 0 U VIO
+3 0 U M1B
+4 0 U M1A
+5 0 U M2A
+6 0 U M2B
+7 0 U GND
+8 0 U VM
+9 0 U Dir
+10 0 U Step
+11 0 U PDN
+12 0 U UART
+13 0 U SPRD
+14 0 U MS2
+15 0 U MS1
+16 0 U EN
+17 0 U INDEX
+18 0 U DIAG
+1988804 UND 1 0 0 0
+TIMESTAMP 2026.06.27.17.08.29
+GATE 1 2 0
+1988804
+1 0 U 1
+2 0 U 2
+B6B-XH-AM-(LF)(SN) UND 1 0 0 0
+TIMESTAMP 2026.06.27.17.08.29
+GATE 1 6 0
+B6B-XH-AM-(LF)(SN)
+1 0 U 1
+2 0 U 2
+3 0 U 3
+4 0 U 4
+5 0 U 5
+6 0 U 6
+100UF35V8X11GF UND 1 0 0 0
+TIMESTAMP 2026.06.27.17.08.29
+GATE 1 2 0
+100UF35V8X11GF
+1 0 U 1
+2 0 U 2
+$PWR_SYMS UND 0 0 2 0
+TIMESTAMP 2026.06.27.17.08.29
+PWR 1
+Ground-GND P Ground-GND
+*PART*
+U1 ESP32-DEVKITC 2500 3800 0 0 100 10 100 10 3 34 38 0 0 6
+"Default Font"
+"Default Font"
+-350 1000 0 0 139 10 1 "Regular 宋体"
+REF-DES
+-350 -1100 0 0 139 10 1 "Regular 宋体"
+PART-TYPE
+-350 -1100 0 0 139 10 1 "Regular 宋体"
+Name
+"Name" ESP32-DevKitC
+"Symbol" ESP32-DEVKITC
+"Device" ESP32-DevKitC
+"PCB DECAL" BULETM-SMD_ESP32-DEVKITC
+"LCSC Part Name" 开发板
+"Supplier Part" C571180
+"Manufacturer" ESPRESSIF(乐鑫)
+"Manufacturer Part" ESP32-DevKitC
+"Supplier Footprint" -
+"JLCPCB Part Class" Extended Part
+"Datasheet" https://atta.szlcsc.com/upload/public/pdf/source/20200521/C529586_D6FCDAFCFF160B3EDDF7DF28D600699D.pdf
+"Supplier" LCSC
+"Add into BOM" yes
+"Convert to PCB" yes
+"CPU" -
+"ROM Size" -
+"Number of I/O" 
+"USB" -
+"WIFI Protocols" -
+"Bluetooth" -
+"Ethernet" -
+"Audio & Video Interface" -
+"Multimedia Support" -
+"Card Type" -
+"Power Supply Type" -
+"Power Supply" -
+"POE Support" -
+"Resolution" -
+"Temperature Range" -
+"Description" CPU:- ROM Size:- Number of I/O: USB:- WIFI Protocols:- Bluetooth:- Ethernet:- Audio & Video Interface:- Multimedia Support:- Card Type:- Power Supply Type:- Power Supply:- POE Support:- Resolution:- Temperature Range:-
+"Reuse Block" 
+"Group ID" 
+"Channel ID" 
+"Unique ID" gge1
+0 50 10 0 4
+1 50 10 0 4
+2 50 10 0 4
+3 50 10 0 4
+4 50 10 0 4
+5 50 10 0 4
+6 50 10 0 4
+7 50 10 0 4
+8 50 10 0 4
+9 50 10 0 4
+10 50 10 0 4
+11 50 10 0 4
+12 50 10 0 4
+13 50 10 0 4
+14 50 10 0 4
+15 50 10 0 4
+16 50 10 0 4
+17 50 10 0 4
+18 50 10 0 4
+19 50 10 0 4
+20 50 10 0 4
+21 50 10 0 4
+22 50 10 0 4
+23 50 10 0 4
+24 50 10 0 4
+25 50 10 0 4
+26 50 10 0 4
+27 50 10 0 4
+28 50 10 0 4
+29 50 10 0 4
+30 50 10 0 4
+31 50 10 0 4
+32 50 10 0 4
+33 50 10 0 4
+34 50 10 0 4
+35 50 10 0 4
+36 50 10 0 4
+37 50 10 0 4
+U2 TMC2209SILENTSTEPSTICK 7200 4000 0 0 100 10 100 10 3 23 18 0 0 6
+"Default Font"
+"Default Font"
+-350 500 0 0 139 10 1 "Regular 宋体"
+REF-DES
+-350 -750 0 0 139 10 1 "Regular 宋体"
+PART-TYPE
+-350 -750 0 0 139 10 1 "Regular 宋体"
+Name
+"Name" TMC2209SILENTSTEPSTICK
+"Symbol" TMC2209SILENTSTEPSTICK
+"Device" TMC2209SILENTSTEPSTICK
+"PCB DECAL" COMM-TH_TMC2209SILENTSTEPSTICK
+"LCSC Part Name" TMC2209SILENTSTEPSTICK
+"Supplier Part" C17375345
+"Manufacturer" TRINAMIC
+"Manufacturer Part" TMC2209SILENTSTEPSTICK
+"Supplier Footprint" -
+"JLCPCB Part Class" Extended Part
+"Datasheet" https://item.szlcsc.com/datasheet/TMC2209SILENTSTEPSTICK/18504516.html
+"Supplier" LCSC
+"Add into BOM" yes
+"Convert to PCB" yes
+"3D Model" 95fdcf4fb19d48138553f4ad6ec9f039
+"3D Model Title" COMM-TH_TMC2209SILENTSTEPSTICK
+"3D Model Transform" 599.9988,799.9984,0,180,0,0,0,0,-236.22
+"Type" Power Management
+"Description" Type:Power Management
+"Reuse Block" 
+"Group ID" 
+"Channel ID" 
+"Unique ID" gge2
+0 50 10 0 4
+1 50 10 0 4
+2 50 10 0 4
+3 50 10 0 4
+4 50 10 0 4
+5 50 10 0 4
+6 50 10 0 4
+7 50 10 0 4
+8 50 10 0 4
+9 50 10 0 4
+10 50 10 0 4
+11 50 10 0 4
+12 50 10 0 4
+13 50 10 0 4
+14 50 10 0 4
+15 50 10 0 4
+16 50 10 0 4
+17 50 10 0 4
+U3 TMC2209SILENTSTEPSTICK 9150 6400 0 0 100 10 100 10 3 23 18 0 0 6
+"Default Font"
+"Default Font"
+-350 500 0 0 139 10 1 "Regular 宋体"
+REF-DES
+-350 -750 0 0 139 10 1 "Regular 宋体"
+PART-TYPE
+-350 -750 0 0 139 10 1 "Regular 宋体"
+Name
+"Name" TMC2209SILENTSTEPSTICK
+"Symbol" TMC2209SILENTSTEPSTICK
+"Device" TMC2209SILENTSTEPSTICK
+"PCB DECAL" COMM-TH_TMC2209SILENTSTEPSTICK
+"LCSC Part Name" TMC2209SILENTSTEPSTICK
+"Supplier Part" C17375345
+"Manufacturer" TRINAMIC
+"Manufacturer Part" TMC2209SILENTSTEPSTICK
+"Supplier Footprint" -
+"JLCPCB Part Class" Extended Part
+"Datasheet" https://item.szlcsc.com/datasheet/TMC2209SILENTSTEPSTICK/18504516.html
+"Supplier" LCSC
+"Add into BOM" yes
+"Convert to PCB" yes
+"3D Model" 95fdcf4fb19d48138553f4ad6ec9f039
+"3D Model Title" COMM-TH_TMC2209SILENTSTEPSTICK
+"3D Model Transform" 599.9988,799.9984,0,180,0,0,0,0,-236.22
+"Type" Power Management
+"Description" Type:Power Management
+"Reuse Block" 
+"Group ID" 
+"Channel ID" 
+"Unique ID" gge3
+0 50 10 0 4
+1 50 10 0 4
+2 50 10 0 4
+3 50 10 0 4
+4 50 10 0 4
+5 50 10 0 4
+6 50 10 0 4
+7 50 10 0 4
+8 50 10 0 4
+9 50 10 0 4
+10 50 10 0 4
+11 50 10 0 4
+12 50 10 0 4
+13 50 10 0 4
+14 50 10 0 4
+15 50 10 0 4
+16 50 10 0 4
+17 50 10 0 4
+U4 1988804 2050 6850 0 0 100 10 100 10 3 27 2 0 0 6
+"Default Font"
+"Default Font"
+-100 150 0 0 139 10 1 "Regular 宋体"
+REF-DES
+-100 -250 0 0 139 10 1 "Regular 宋体"
+PART-TYPE
+-100 -250 0 0 139 10 1 "Regular 宋体"
+Name
+"Name" 1988804
+"Symbol" 1988804
+"Device" 1988804
+"PCB DECAL" CONN-TH_1988804
+"LCSC Part Name" 5mm 排数:1 每排P数:2 直插
+"Supplier Part" C7168402
+"Manufacturer" Phoenix Contact(菲尼克斯)
+"Manufacturer Part" 1988804
+"Supplier Footprint" 插件,P=5mm
+"JLCPCB Part Class" Extended Part
+"Datasheet" https://item.szlcsc.com/datasheet/1988804/8135357.html
+"Supplier" LCSC
+"Add into BOM" yes
+"Convert to PCB" yes
+"Pitch" 5mm
+"Color" Green
+"Mounting Type" Through Hole
+"Number of Pins" 2P
+"Number of Rows" 1
+"Number of PINs Per Row" 2
+"Current Rating" 15A
+"Voltage Rating (Max)" 300V
+"Description" Pitch:5mm Color:Green Mounting Type:Through Hole Number of Pins:2P Number of Rows:1 Number of PINs Per Row:2 Current Rating:15A Voltage Rating (Max):300V
+"Reuse Block" 
+"Group ID" 
+"Channel ID" 
+"Unique ID" gge4
+0 50 10 0 4
+1 50 10 0 4
+U5 B6B-XH-AM-(LF)(SN) 5500 4700 90 0 100 10 100 10 3 42 6 0 0 6
+"Default Font"
+"Default Font"
+50 50 90 3 139 10 1 "Regular 宋体"
+REF-DES
+200 400 90 3 139 10 1 "Regular 宋体"
+PART-TYPE
+200 400 90 3 139 10 1 "Regular 宋体"
+Name
+"Name" B6B-XH-AM(LF)(SN)
+"Symbol" B6B-XH-AM-(LF)(SN)
+"Device" B6B-XH-AM(LF)(SN)
+"PCB DECAL" CONN-TH_6P-P2.50_B6B-XH-AM-LF-SN
+"LCSC Part Name" 1x6P 间距:2.5mm 直插 系列:XH
+"Supplier Part" C161873
+"Manufacturer" JST
+"Manufacturer Part" B6B-XH-AM(LF)(SN)
+"Supplier Footprint" 插件,P=2.5mm
+"JLCPCB Part Class" Extended Part
+"Datasheet" https://item.szlcsc.com/datasheet/B6B-XH-AM(LF)(SN)/173254.html
+"Supplier" LCSC
+"Add into BOM" yes
+"Convert to PCB" yes
+"3D Model" b6221f123b87470094b2efbf850186cb
+"3D Model Title" CONN-TH_6P-P2.50_B6B-XH-AM(LF)(SN)
+"3D Model Transform" 685.038,226.3775,0,0,0,0,0.002,-20,-137.795
+"Pins Structure" 1x6P
+"Pitch" 2.5mm
+"Mounting Type" Through Hole
+"Reference Series" XH
+"Number of Pins" 6P
+"Number of Rows" 1
+"Number of PINs Per Row" 6
+"Row Spacing" -
+"Current Rating" 3A
+"Contact Material" Brass
+"Contact Plating" Tin
+"Operating Temperature" -25℃~+85℃
+"Voltage Rating" 250V
+"Plastic Material" PA66
+"Flame Retardant Rating" UL94V-0
+"Supplementary Features" Pillar；K Pin
+"Color" White
+"Z-Height of the Board" 7mm
+"X-Length of Bottom Edge on Board (Spacing Line)" 17.4mm
+"Y-Width of Bottom Edge on Board" 5.75mm
+"Description" Pins Structure:1x6P Pitch:2.5mm Mounting Type:Through Hole Reference Series:XH Number of Pins:6P Number of Rows:1 Number of PINs Per Row:6 Row Spacing:- Current Rating:3A Contact Material:Brass Contact Plating:Tin Operating Temperature:-25℃~+85℃ Operating
+"Reuse Block" 
+"Group ID" 
+"Channel ID" 
+"Unique ID" gge5
+0 50 10 0 4
+1 50 10 0 4
+2 50 10 0 4
+3 50 10 0 4
+4 50 10 0 4
+5 50 10 0 4
+U6 B6B-XH-AM-(LF)(SN) 7650 7000 90 0 100 10 100 10 3 42 6 0 0 6
+"Default Font"
+"Default Font"
+50 50 90 3 139 10 1 "Regular 宋体"
+REF-DES
+200 400 90 3 139 10 1 "Regular 宋体"
+PART-TYPE
+200 400 90 3 139 10 1 "Regular 宋体"
+Name
+"Name" B6B-XH-AM(LF)(SN)
+"Symbol" B6B-XH-AM-(LF)(SN)
+"Device" B6B-XH-AM(LF)(SN)
+"PCB DECAL" CONN-TH_6P-P2.50_B6B-XH-AM-LF-SN
+"LCSC Part Name" 1x6P 间距:2.5mm 直插 系列:XH
+"Supplier Part" C161873
+"Manufacturer" JST
+"Manufacturer Part" B6B-XH-AM(LF)(SN)
+"Supplier Footprint" 插件,P=2.5mm
+"JLCPCB Part Class" Extended Part
+"Datasheet" https://item.szlcsc.com/datasheet/B6B-XH-AM(LF)(SN)/173254.html
+"Supplier" LCSC
+"Add into BOM" yes
+"Convert to PCB" yes
+"3D Model" b6221f123b87470094b2efbf850186cb
+"3D Model Title" CONN-TH_6P-P2.50_B6B-XH-AM(LF)(SN)
+"3D Model Transform" 685.038,226.3775,0,0,0,0,0.002,-20,-137.795
+"Pins Structure" 1x6P
+"Pitch" 2.5mm
+"Mounting Type" Through Hole
+"Reference Series" XH
+"Number of Pins" 6P
+"Number of Rows" 1
+"Number of PINs Per Row" 6
+"Row Spacing" -
+"Current Rating" 3A
+"Contact Material" Brass
+"Contact Plating" Tin
+"Operating Temperature" -25℃~+85℃
+"Voltage Rating" 250V
+"Plastic Material" PA66
+"Flame Retardant Rating" UL94V-0
+"Supplementary Features" Pillar；K Pin
+"Color" White
+"Z-Height of the Board" 7mm
+"X-Length of Bottom Edge on Board (Spacing Line)" 17.4mm
+"Y-Width of Bottom Edge on Board" 5.75mm
+"Description" Pins Structure:1x6P Pitch:2.5mm Mounting Type:Through Hole Reference Series:XH Number of Pins:6P Number of Rows:1 Number of PINs Per Row:6 Row Spacing:- Current Rating:3A Contact Material:Brass Contact Plating:Tin Operating Temperature:-25℃~+85℃ Operating
+"Reuse Block" 
+"Group ID" 
+"Channel ID" 
+"Unique ID" gge6
+0 50 10 0 4
+1 50 10 0 4
+2 50 10 0 4
+3 50 10 0 4
+4 50 10 0 4
+5 50 10 0 4
+C1 100UF35V8X11GF 6250 3500 90 3 100 10 100 10 3 29 2 0 0 30
+"Default Font"
+"Default Font"
+0 100 90 0 139 10 1 "Regular 宋体"
+REF-DES
+100 100 90 0 139 10 1 "Regular 宋体"
+PART-TYPE
+100 100 90 0 139 10 1 "Regular 宋体"
+Name
+"Name" 100uF
+"Symbol" 100UF35V8X11GF
+"Device" 100uF35V8x11GF
+"PCB DECAL" CAP-TH_BD8.0-P3.50-D0.6-FD-H10.0
+"LCSC Part Name" 100uF ±20% 35V
+"Supplier Part" C49304899
+"Manufacturer" Econd(米朗电子)
+"Manufacturer Part" 100uF35V8x11GF
+"Supplier Footprint" 插件,D8xL11mm
+"JLCPCB Part Class" Extended Part
+"Datasheet" https://item.szlcsc.com/datasheet/100uF35V8x11GF/51766727.html
+"Supplier" LCSC
+"Add into BOM" yes
+"Convert to PCB" yes
+"Value" 100uF
+"Tolerance" ±20%
+"Voltage Rating" 35V
+"Ripple Current" 640mA@100KHz
+"Equivalent Series Resistance(ESR)" 170mΩ
+"Pin Spacing" 3.5mm
+"Diameter" 8mm
+"Height - Seated (Max)" 11mm
+"Lifetime" 3000hrs@105℃
+"Operating Temperature" -40℃~+105℃
+"Description" Capacitance:100uF Tolerance:±20% Tolerance:±20% Voltage Rating:35V Ripple Current:640mA@100KHz Equivalent Series Resistance(ESR):170mΩ Pin Spacing:3.5mm Diameter:8mm Height - Seated (Max):11mm Lifetime:3000hrs@105℃ Operating Temperature:-40℃~+105℃ Operati
+"Reuse Block" 
+"Group ID" 
+"Channel ID" 
+"Unique ID" gge7
+0 50 10 0 4
+1 50 10 0 4
+C2 100UF35V8X11GF 8250 5900 90 3 100 10 100 10 3 29 2 0 0 30
+"Default Font"
+"Default Font"
+0 150 90 0 139 10 1 "Regular 宋体"
+REF-DES
+100 150 90 0 139 10 1 "Regular 宋体"
+PART-TYPE
+100 150 90 0 139 10 1 "Regular 宋体"
+Name
+"Name" 100uF
+"Symbol" 100UF35V8X11GF
+"Device" 100uF35V8x11GF
+"PCB DECAL" CAP-TH_BD8.0-P3.50-D0.6-FD-H10.0
+"LCSC Part Name" 100uF ±20% 35V
+"Supplier Part" C49304899
+"Manufacturer" Econd(米朗电子)
+"Manufacturer Part" 100uF35V8x11GF
+"Supplier Footprint" 插件,D8xL11mm
+"JLCPCB Part Class" Extended Part
+"Datasheet" https://item.szlcsc.com/datasheet/100uF35V8x11GF/51766727.html
+"Supplier" LCSC
+"Add into BOM" yes
+"Convert to PCB" yes
+"Value" 100uF
+"Tolerance" ±20%
+"Voltage Rating" 35V
+"Ripple Current" 640mA@100KHz
+"Equivalent Series Resistance(ESR)" 170mΩ
+"Pin Spacing" 3.5mm
+"Diameter" 8mm
+"Height - Seated (Max)" 11mm
+"Lifetime" 3000hrs@105℃
+"Operating Temperature" -40℃~+105℃
+"Description" Capacitance:100uF Tolerance:±20% Tolerance:±20% Voltage Rating:35V Ripple Current:640mA@100KHz Equivalent Series Resistance(ESR):170mΩ Pin Spacing:3.5mm Diameter:8mm Height - Seated (Max):11mm Lifetime:3000hrs@105℃ Operating Temperature:-40℃~+105℃ Operati
+"Reuse Block" 
+"Group ID" 
+"Channel ID" 
+"Unique ID" gge8
+0 50 10 0 4
+1 50 10 0 4
+*BUSSES*
+*OFFPAGE REFS*
+@@@O0 GND $PWR_SYMS 1550 6800 0 0 0
+@@@O1 GND $PWR_SYMS 6250 3250 0 0 0
+@@@O2 GND $PWR_SYMS 6550 4750 0 0 0
+@@@O3 GND $PWR_SYMS 5300 3800 0 0 0
+@@@O4 GND $PWR_SYMS 8250 5600 0 0 0
+@@@O5 GND $PWR_SYMS 7300 6150 0 0 0
+@@@O6 GND $PWR_SYMS 8400 7150 0 0 0
+@@@O7 GND $PWR_SYMS 1200 3400 0 0 0
+@@@O8 GND $PWR_SYMS 3250 4700 0 0 0
+@@@O9 GND $PWR_SYMS 8250 3900 0 0 0
+@@@O10 GND $PWR_SYMS 10200 6300 0 0 0
+@@@O11 3V3 @TERM 9750 6200 0 0 -2
+@@@O12 3V3 @TERM 7750 3800 0 0 -2
+@@@O13 24V @TERM 7750 6100 0 0 -2
+@@@O14 M2B @TERM 5750 4200 0 0 -2
+@@@O15 M2A @TERM 5550 4200 0 0 -2
+@@@O16 M1B @TERM 5450 4200 0 0 -2
+@@@O17 M1A @TERM 5250 4200 0 0 -2
+@@@O18 M1B @TERM 6450 4200 0 0 -2
+@@@O19 M2B @TERM 6450 3900 0 0 -2
+@@@O20 M2A @TERM 6450 4000 0 0 -2
+@@@O21 M1A @TERM 6450 4100 0 0 -2
+@@@O22 IO15 @TERM 9700 5950 0 0 -2
+@@@O23 IO15 @TERM 7800 3600 0 0 -2
+@@@O24 IO15 @TERM 3250 3200 0 0 -2
+@@@O25 IO13 @TERM 9900 6800 0 0 -2
+@@@O26 IO12 @TERM 9900 6700 0 0 -2
+@@@O27 IO13 @TERM 1750 3300 0 0 -2
+@@@O28 IO12 @TERM 1750 3500 0 0 -2
+@@@O29 IO27 @TERM 7950 4400 0 0 -2
+@@@O30 IO14 @TERM 7950 4300 0 0 -2
+@@@O31 IO27 @TERM 1750 3700 0 0 -2
+@@@O32 IO14 @TERM 1750 3600 0 0 -2
+@@@O33 3V3 @TERM 8400 6700 0 0 -2
+@@@O34 3V3 @TERM 6450 4300 0 0 -2
+@@@O35 3V3 @TERM 1750 4700 0 0 -2
+@@@O36 24V @TERM 5950 3700 0 0 -2
+@@@O37 24V @TERM 1550 6900 0 0 -2
+*TIEDOTS*
+@@@D0 8250 6100
+@@@D1 6250 3700
+*CONNECTION*
+*SIGNAL* GND 0 0
+U3.14 @@@O10 2 0
+9600 6300
+10200 6300
+U2.14 @@@O9 2 0
+7650 3900
+8250 3900
+@@@O8 U1.20 2 0
+3250 4700
+2950 4700
+@@@O7 U1.14 2 0
+1200 3400
+2050 3400
+@@@O6 U3.1 4 0
+8400 7150
+8400 7200
+8700 7200
+8700 6800
+U3.7 @@@O5 3 0
+8700 6200
+7300 6200
+7300 6150
+@@@O4 C2.2 2 0
+8250 5600
+8250 5700
+U2.7 @@@O3 2 0
+6750 3800
+5300 3800
+U2.1 @@@O2 3 0
+6750 4400
+6750 4750
+6550 4750
+@@@O1 C1.2 2 0
+6250 3250
+6250 3300
+U4.2 @@@O0 2 0
+1850 6800
+1550 6800
+*SIGNAL* 3V3 0 0
+U3.15 @@@O11 2 0
+9600 6200
+9750 6200
+U2.15 @@@O12 2 0
+7650 3800
+7750 3800
+@@@O33 U3.2 2 0
+8400 6700
+8700 6700
+@@@O34 U2.2 2 0
+6450 4300
+6750 4300
+@@@O35 U1.1 2 0
+1750 4700
+2050 4700
+*SIGNAL* 24V 0 0
+@@@D0 C2.1 2 0
+8250 6100
+8250 6100
+@@@D0 @@@O13 2 0
+8250 6100
+7750 6100
+U3.8 @@@D0 2 0
+8700 6100
+8250 6100
+@@@D1 C1.1 2 0
+6250 3700
+6250 3700
+U2.8 @@@D1 2 0
+6750 3700
+6250 3700
+@@@O36 @@@D1 2 0
+5950 3700
+6250 3700
+U4.1 @@@O37 2 0
+1850 6900
+1550 6900
+*SIGNAL* M2B 0 0
+@@@O14 U5.6 2 0
+5750 4200
+5750 4500
+@@@O19 U2.6 2 0
+6450 3900
+6750 3900
+*SIGNAL* M2A 0 0
+@@@O15 U5.4 2 0
+5550 4200
+5550 4500
+@@@O20 U2.5 2 0
+6450 4000
+6750 4000
+*SIGNAL* M1B 0 0
+@@@O16 U5.3 2 0
+5450 4200
+5450 4500
+@@@O18 U2.3 2 0
+6450 4200
+6750 4200
+*SIGNAL* M1A 0 0
+@@@O17 U5.1 2 0
+5250 4200
+5250 4500
+@@@O21 U2.4 2 0
+6450 4100
+6750 4100
+*SIGNAL* IO15 0 0
+U3.16 @@@O22 3 0
+9600 6100
+9700 6100
+9700 5950
+U2.16 @@@O23 3 0
+7650 3700
+7800 3700
+7800 3600
+@@@O24 U1.35 2 0
+3250 3200
+2950 3200
+*SIGNAL* IO13 0 0
+@@@O25 U3.9 2 0
+9900 6800
+9600 6800
+@@@O27 U1.15 2 0
+1750 3300
+2050 3300
+*SIGNAL* IO12 0 0
+@@@O26 U3.10 2 0
+9900 6700
+9600 6700
+@@@O28 U1.13 2 0
+1750 3500
+2050 3500
+*SIGNAL* IO27 0 0
+@@@O29 U2.9 2 0
+7950 4400
+7650 4400
+@@@O31 U1.11 2 0
+1750 3700
+2050 3700
+*SIGNAL* IO14 0 0
+@@@O30 U2.10 2 0
+7950 4300
+7650 4300
+@@@O32 U1.12 2 0
+1750 3600
+2050 3600
+*SIGNAL* $$$1 0 0
+U3.4 U6.1 3 0
+8700 6500
+7400 6500
+7400 6800
+*SIGNAL* $$$2 0 0
+U3.3 U6.3 3 0
+8700 6600
+7600 6600
+7600 6800
+*SIGNAL* $$$3 0 0
+U3.5 U6.4 3 0
+8700 6400
+7700 6400
+7700 6800
+*SIGNAL* $$$4 0 0
+U3.6 U6.6 3 0
+8700 6300
+7900 6300
+7900 6800
+*NETNAMES*
+GND @@@O0 0 -250 0 12 0      0      0 0 -1 10 97 "Regular DOUYU Font"
+GND @@@O1 0 -250 0 12 0      0      0 0 -1 10 97 "Regular DOUYU Font"
+GND @@@O2 0 -250 0 12 0      0      0 0 -1 10 97 "Regular DOUYU Font"
+GND @@@O3 0 -250 0 12 0      0      0 0 -1 10 97 "Regular DOUYU Font"
+GND @@@O4 0 -250 0 12 0      0      0 0 -1 10 97 "Regular DOUYU Font"
+GND @@@O5 0 -250 0 12 0      0      0 0 -1 10 97 "Regular DOUYU Font"
+GND @@@O6 0 -250 0 12 0      0      0 0 -1 10 97 "Regular DOUYU Font"
+GND @@@O7 0 -250 0 12 0      0      0 0 -1 10 97 "Regular DOUYU Font"
+GND @@@O8 0 -250 0 12 0      0      0 0 -1 10 97 "Regular DOUYU Font"
+GND @@@O9 0 -250 0 12 0      0      0 0 -1 10 97 "Regular DOUYU Font"
+GND @@@O10 0 -250 0 12 0      0      0 0 -1 10 97 "Regular DOUYU Font"
+3V3 U3.15 150 0 0 0 0      0      0 0 -1 10 97 "Regular DOUYU Font"
+3V3 U2.15 100 0 0 0 0      0      0 0 -1 10 97 "Regular DOUYU Font"
+24V U3.8 -950 0 0 0 0      0      0 0 -1 10 97 "Regular DOUYU Font"
+M2B @@@O14 0 0 90 0 0      0      0 0 -1 10 97 "Regular DOUYU Font"
+M2A @@@O15 0 0 90 0 0      0      0 0 -1 10 97 "Regular DOUYU Font"
+M1B @@@O16 0 0 90 0 0      0      0 0 -1 10 97 "Regular DOUYU Font"
+M1A @@@O17 0 0 90 0 0      0      0 0 -1 10 97 "Regular DOUYU Font"
+M1B @@@O18 0 0 0 0 0      0      0 0 -1 10 97 "Regular DOUYU Font"
+M2B @@@O19 0 0 0 0 0      0      0 0 -1 10 97 "Regular DOUYU Font"
+M2A @@@O20 0 0 0 0 0      0      0 0 -1 10 97 "Regular DOUYU Font"
+M1A @@@O21 0 0 0 0 0      0      0 0 -1 10 97 "Regular DOUYU Font"
+IO15 U3.16 100 -150 0 0 0      0      0 0 -1 10 97 "Regular DOUYU Font"
+IO15 U2.16 150 -100 0 0 0      0      0 0 -1 10 97 "Regular DOUYU Font"
+IO15 @@@O24 -200 0 0 0 0      0      0 0 -1 10 97 "Regular DOUYU Font"
+IO13 @@@O25 -200 0 0 0 0      0      0 0 -1 10 97 "Regular DOUYU Font"
+IO12 @@@O26 -200 0 0 0 0      0      0 0 -1 10 97 "Regular DOUYU Font"
+IO13 @@@O27 0 0 0 0 0      0      0 0 -1 10 97 "Regular DOUYU Font"
+IO12 @@@O28 0 0 0 0 0      0      0 0 -1 10 97 "Regular DOUYU Font"
+IO27 @@@O29 -200 0 0 0 0      0      0 0 -1 10 97 "Regular DOUYU Font"
+IO14 @@@O30 -200 0 0 0 0      0      0 0 -1 10 97 "Regular DOUYU Font"
+IO27 @@@O31 0 0 0 0 0      0      0 0 -1 10 97 "Regular DOUYU Font"
+IO14 @@@O32 0 0 0 0 0      0      0 0 -1 10 97 "Regular DOUYU Font"
+3V3 @@@O33 0 0 0 0 0      0      0 0 -1 10 97 "Regular DOUYU Font"
+3V3 @@@O34 0 0 0 0 0      0      0 0 -1 10 97 "Regular DOUYU Font"
+3V3 @@@O35 0 0 0 0 0      0      0 0 -1 10 97 "Regular DOUYU Font"
+24V @@@O36 0 0 0 0 0      0      0 0 -1 10 97 "Regular DOUYU Font"
+24V U4.1 -300 0 0 0 0      0      0 0 -1 10 97 "Regular DOUYU Font"
+
+
+*END*
