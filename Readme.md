@@ -1,5 +1,5 @@
 # Rtelescope 
-![alt text](image.png)
+![Alt text](image/image.png)
 ## What this is
 
 Rocky V1 is a motorized, dual axis Alt Azimuth Dobsonian-style telescope mount that automatically finds and tracks deep-sky objects across the night sky. It pairs a high reduction mechanical drivetrain with a custom electronics shield built around hardware interpolated stepper microstepping, so the mount can move in tiny steps instead of big jerky motion you get from driving a stepper motor directly.
