@@ -1,5 +1,5 @@
 # Rtelescope 
-![Alt text](image/image.png)
+![Alt text](Image/image.png)
 ## What this is
 
 Rocky V1 is a motorized, dual axis Alt Azimuth Dobsonian-style telescope mount that automatically finds and tracks deep-sky objects across the night sky. It pairs a high reduction mechanical drivetrain with a custom electronics shield built around hardware interpolated stepper microstepping, so the mount can move in tiny steps instead of big jerky motion you get from driving a stepper motor directly.
@@ -37,16 +37,16 @@ Using cost-effective and available components to build a telescope tracking syst
 
 ### Schematics 
 
-![Alt text](image/schem.png)
+![Alt text](Image/schem.png)
 
 ### Routing 
 
-![Alt text](image/1l.png)
-![Alt text](image/2l.png)
+![Alt text](Image/1l.png)
+![Alt text](Image/2l.png)
 
 ### 3D
 
-![Alt text](image/3d.png)
+![Alt text](Image/3d.png)
 
 
 # Telescope 
@@ -54,9 +54,9 @@ Using cost-effective and available components to build a telescope tracking syst
 For this telescope, I chose a 150mm primary mirror to catch more light, combined with a 30mm secondary and a 6mm eyepiece. This setup provides a really sharp picture of the moon and can easily see the rings of Saturn. It’s also super convenient because the upper assembly can extend and retract with built-in limiters. Plus, it's fully motorized with NEMA 17 motors for 2-axis movement (altitude and azimuth), and it's incredibly smooth since both axes have really high reduction ratios.
 
 
-![Alt text](image/tel.png)
+![Alt text](Image/tel.png)
 
-![alt text](image/front.png)
+![alt text](Image/front.png)
 
 
 ## How to use it 
@@ -105,7 +105,7 @@ For this telescope, I chose a 150mm primary mirror to catch more light, combined
 2. **Select Tracking Mode Profile:** 
 ---
 ### Wire Diagram 
-![alt text](image/dia.png)
+![alt text](Image/dia.png)
 
 
 # BOM 
@@ -127,9 +127,9 @@ see the full version in BOM.csv
 # Pics
 
 
-![alt text](image/render.png)
+![alt text](Image/render.png)
 
-![alt text](image/render2.png)
+![alt text](Image/render2.png)
 
 
 
