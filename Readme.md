@@ -59,7 +59,7 @@ For this telescope, I chose a 150mm primary mirror to catch more light, combined
 ![alt text](Image/front.png)
 
 ---
-## How to use it 
+## Assembly 
 
 ### Step 1: Primary and Secondary Optical Assembly
 1. **Mount the Primary Mirror:** 
