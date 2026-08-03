@@ -2,7 +2,9 @@
 ![Alt text](Image/image.png)
 ## What this is
 
-This is a motorized, dual axis Alt Azimuth Dobsonian style telescope mount that automatically finds and tracks deep celestial bodies (like the moon or saturn) across the night sky. It does have a high reduction mechanical drivetrain for smoothness with a custom electronics shield built around a hardware interpolated stepper microstepping, so the mount can move in teeny tiny steps instead of big jerky motion you get from driving a stepper motor directly (**fun fact:** did you know that the Milky Way galaxy smells like rum and raspberries)
+This is a motorized, dual axis Alt Azimuth Dobsonian style telescope mount that automatically finds and tracks deep celestial bodies (like the moon or saturn) across the night sky. It does have a high reduction mechanical drivetrain for smoothness with a custom electronics shield built around a hardware interpolated stepper microstepping, so the mount can move in teeny tiny steps instead of big jerky motion you get from driving a stepper motor directly 
+
+(**fun fact:** did you know that the Milky Way galaxy smells like rum and raspberries)
  
 ## Why I built it
 
