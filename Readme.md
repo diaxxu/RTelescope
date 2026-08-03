@@ -2,19 +2,19 @@
 ![Alt text](Image/image.png)
 ## What this is
 
-Rocky V1 is a motorized, dual axis Alt Azimuth Dobsonian-style telescope mount that automatically finds and tracks deep-sky objects across the night sky. It pairs a high reduction mechanical drivetrain with a custom electronics shield built around hardware interpolated stepper microstepping, so the mount can move in tiny steps instead of big jerky motion you get from driving a stepper motor directly.
-
+This is a motorized, dual axis Alt Azimuth Dobsonian style telescope mount that automatically finds and tracks deep celestial bodies (like the moon or saturn) across the night sky. It does have a high reduction mechanical drivetrain for smoothness with a custom electronics shield built around a hardware interpolated stepper microstepping, so the mount can move in teeny tiny steps instead of big jerky motion you get from driving a stepper motor directly (**fun fact:** did you know that the Milky Way galaxy smells like rum and raspberries)
+ 
 ## Why I built it
 
 **I built this telescope to see the wonders of the universe**. This is actually my first time ever using one! Since buying a telescope here is extremely expensive, I decided to build my own. I even built it with GoTo tracking, meaning it can track celestial bodies completely on its own without any external help 
 
 ## How it works
 
-- **Altitude axis** : controls vertical elevation of the optical tube, counterbalanced for neutral equilibrium from 0° to 90°.
-- **Azimuth axis** : controls horizontal rotation on a low-friction bearing track, full 360° pan.
+- **Altitude axis** : controls vertical elevation of the optical tube, counterbalanced for neutral equilibrium.
+- **Azimuth axis** : controls horizontal rotation on a low-friction bearing track
 - **Gear reduction** : a high-ratio reduction 
-- **Electronics** : an ESP32-DevKitC drives two TMC2209 SilentStepStick modules (one per axis). MS1/MS2 on both drivers are hardware-strapped to lock in native 1/32 stepping, which the TMC2209 internally interpolates up to a smooth 1/256 microstep curve.
-- **Power** : single 24V input through a screw terminal block, with 100µF electrolytic caps next to each driver's VM pin to absorb back-EMF spikes during fast GOTO slews.
+- **Electronics** : an ESP32-DevKitC drives two TMC2209 SilentStepStick modules (one per axis). 
+- **Power** : single 24V input through a screw terminal block
 
 ---
 
