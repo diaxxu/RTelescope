@@ -24,14 +24,14 @@ This is a motorized, dual axis Alt Azimuth Dobsonian style telescope mount that 
 
 ### Components 
 
-Using cost-effective and available components to build a telescope tracking system :)
+Using cheap and available components to build a telescope tracking system :)
 
 * **MCU: ESP32-WROOM-32E**
     * **Specifications:** 32-bit dual-core Xtensa LX6 microprocessor running at 240 MHz, with 520 KB SRAM and 4 MB flash memory.
 
 
 * **Driver: TMC2209 Stepper Motor Driver**
-    * **Specifications:** Ultra silent motor driver for two-phase stepper motors  handles up to 2.8A peak current (2A RMS) per motor supports up to 1/256 microstepping.
+    * **Specifications:** Silent motor driver for two-phase stepper motors  handles up to 2.8A peak current (2A RMS) per motor supports up to 1/256 microstepping.
 
 
 * **Power: 24V DC Power Supply**
