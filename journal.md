@@ -1,0 +1,59 @@
+# Total time spent: 13.7 hours
+
+
+---
+Jun 22, 2026
+time spent : 4.2hours
+
+**Hello Macondo**! i just started my First Project which is a a telescope because i really like telescopes but unfortunately they are too expensive for me and thats why im doing this yay 
+what i did today was heavy research and CAD'ing. i researched about telescopes how do they work ![image](https://cdn.hackclub.com/019ef162-e3d0-7132-b521-9744280f2583/ab4aea24240c56922c3ec2e12424eb24.webp) i saw that there is different types of telescope there is even Radio Telescope ! apparently they are used for deep space recon but that's not our project. fortunately there are easy and cheap telescopes to build  such as  Newtonian , Dobsonien etc personnaly im choosing a newtonian over the other because its the most used one and i kinda like newton lol. since i got all these ideas i went directly into fusion to model what i had in my head i started by modeling the primary mirror ![image](https://cdn.hackclub.com/019ef168-ce2c-70e9-8352-54a824030925/image.png)
+![image](https://cdn.hackclub.com/019ef168-fff0-7bc8-8a89-eb01f70a2326/Capture%20d'%C3%A9cran%202026-06-22%20205316.png) then their stand i made them so that you can adjust to your liking ( tilting,pan etc ) ![image](https://cdn.hackclub.com/019ef16a-05c6-79a8-98f3-dc1186d46b20/Capture%20d'%C3%A9cran%202026-06-22%20211048.png)![image](https://cdn.hackclub.com/019ef16a-540b-7d28-8185-cf6ed0f08ea0/Capture%20d'%C3%A9cran%202026-06-22%20211135.png)
+  further more, i build the pvc pipe ![image](https://cdn.hackclub.com/019ef16a-866a-7b4c-82d7-f04f91a95019/Capture%20d'%C3%A9cran%202026-06-22%20212525.png) that will cover the primary for non wanted light. i then passed into the 3d print mount that will hold the the tubes ![image](https://cdn.hackclub.com/019ef16b-7813-73e8-83ff-030524871735/Capture%20d'%C3%A9cran%202026-06-22%20214722.png) those tubes are used to extend the secondary mirror ![image](https://cdn.hackclub.com/019ef16b-bcbd-7616-98cb-636adbb11b95/Capture%20d'%C3%A9cran%202026-06-22%20215328.png) here is the length where should the secondary mirror be when fully extended i got this using the value provided by the primary mirror seller ![image](https://cdn.hackclub.com/019ef16d-6261-7b17-86e6-a6901cb22924/Capture%20d'%C3%A9cran%202026-06-22%20215756.png) ![image](https://cdn.hackclub.com/019ef16d-a4fc-7218-8c48-404bdfaf7538/Capture%20d'%C3%A9cran%202026-06-22%20220651.png) this is how much i got finally i then went to design the secondary mirror not gonna lie it was a bit difficult but i got it ![image](https://cdn.hackclub.com/019ef16e-1aad-784d-9cd5-64c2eb0a1594/Capture%20d'%C3%A9cran%202026-06-22%20221857.png) time to do the mount for the sec mirror it usually look like this ![image](https://cdn.hackclub.com/019ef16e-dd49-7d89-9bdf-2c25d36759a2/Capture%20d'%C3%A9cran%202026-06-22%20223335.png) those vanes that u see are meant to be that way so that they do not block light ![image](https://cdn.hackclub.com/019ef16f-989c-7587-ae78-d5ed689de320/Capture%20d'%C3%A9cran%202026-06-22%20225229.png) here is how it look like from the bottom after this i designed the limit stops for the extending tubes ![image](https://cdn.hackclub.com/019ef170-34c7-7ee8-a776-da02fd75e471/Capture%20d'%C3%A9cran%202026-06-22%20230656.png) and thats all for today 
+
+---
+Jun 24, 2026
+time spent : 3hours
+well yesterday i did so much but then i couldn't journal because i finished cad very late but here i am the next morning, what i did yesterday was choosing the third thing for this to work as a telescope its called an eyepiece and it **magnifies the real image** formed by the telescope's primary optics i also designed its focuser i think you know what this does from its name, it just adjust the distance of the eyepiece and the secondary mirror to focus. i searched for cad model of those object but none were found so i designed them myself and dropped them in cad  
+# Eyepiece![image](https://cdn.hackclub.com/019ef8e0-2f9e-724d-ba32-ead7345dc52f/Capture%20d'%C3%A9cran%202026-06-23%20212802.png) 
+# Focuser ![image](https://cdn.hackclub.com/019ef8e1-3a39-79f9-bccc-8cf99ebe6757/Capture%20d'%C3%A9cran%202026-06-23%20213447.png) 
+# both in CAD ![image](https://cdn.hackclub.com/019ef8e1-e20d-76dd-9c98-ec89e87743b2/Capture%20d'%C3%A9cran%202026-06-23%20223300.png) next i started to design the mount of the whole telescope cuz im not gonna shoulder mount it to see planet lol it need much more stability and rigidness thats why i choosed to lasercut the mounts out of wood i kept the geometry simple for this exact reason ![image](https://cdn.hackclub.com/019ef8e5-0301-70a9-bf88-b622b3984e84/Capture%20d'%C3%A9cran%202026-06-23%20231758.png) here is the first one ![image](https://cdn.hackclub.com/019ef8e5-532c-7f5c-ac5c-1f3d9ca601ef/Capture%20d'%C3%A9cran%202026-06-23%20231910.png) i used a technique where you can assembly wood with almost no glue just dowels this will greatly increase rigidity between the two part as well making it easier to assemble, i also added bearing after seeing where the CoM ( center of mass ) is to make altitude change easier ( rotation ) ![image](https://cdn.hackclub.com/019ef8e7-a7a1-7df5-a982-1dba62bf021c/Capture%20d'%C3%A9cran%202026-06-23%20232032.png) in this image you can see the two rods that enable the telescope to rotate i used 8mm rods with 608 dual bearing ![image](https://cdn.hackclub.com/019ef8e8-7d81-710c-98db-485a814c307a/Capture%20d'%C3%A9cran%202026-06-23%20232412.png) added the top circular base this is one is dynamic ![image](https://cdn.hackclub.com/019ef8e9-1b0a-7ca4-9ff2-d8f2c8552cc5/Capture%20d'%C3%A9cran%202026-06-23%20233635.png) then added 3 Teflon pads with one m10 screw with spacer in the middle to act as a pivot point the Teflon just ease friction ![image](https://cdn.hackclub.com/019ef8ea-04ec-7abd-b99e-9e8de31f4f84/Capture%20d'%C3%A9cran%202026-06-23%20235541.png) the mount phase is no finished onto the next phase Motorization :scared: there is many ways on how to motorize ur dobsonian telescope gears, belt, direct drive etc each one with their pros and cons i choose a mix between those for the azimuth ( pan ) i chose direct drive with a rubber thingy to turn the base ![image](https://cdn.hackclub.com/019ef8ee-0dd2-76d7-9709-6889f8867165/Capture%20d'%C3%A9cran%202026-06-24%20003229.png) an image is worth 1000 words or something like that ig. 
+i feel that i finished it azimuth now for altitude ![image](https://cdn.hackclub.com/019ef8ef-3be1-76d1-b584-a6022c4aef39/Capture%20d'%C3%A9cran%202026-06-24%20003556.png) i need a way to drive those end shaft couldn't think of something but when i was doomscrolling yesterday i saw something interesting they were using uhm a long lever arm with a leadscrew to turn things ![image](https://cdn.hackclub.com/019ef8f0-4366-77fa-9845-49d5322f20a3/Capture%20d'%C3%A9cran%202026-06-24%20013343.png) so i took inspiration but im not satisfied with it im 100% I NEED to add something to the lever arm don't bind with the leadscrew φ(*￣0￣)here take some render i made ![image](https://cdn.hackclub.com/019ef8f2-5c6d-7e79-ba99-1a2563652400/Capture%20d'%C3%A9cran%202026-06-24%20021542.png)![image](https://cdn.hackclub.com/019ef8f2-85ab-7e6a-91c0-7cf068ed6ebd/Capture%20d'%C3%A9cran%202026-06-24%20021051.png)
+
+---
+Jun 25, 2026
+time spent : 1hours
+hi again im still in the motorization phase ( its tuff ) i didn't appreciate the previous version for multiple reason 
+1. more expensive cuz you need to buy leadscrew and adapter 
+2. more parts more failure points 
+3. complexe
+4. limited altitude 
+# i was so disoriented lmao every option had sever drawback but i kept searching till i found the best one for altitude ( for azimuth the first one was okay for me so i didn't touch it ) so for alitude i choose this slice of a full gear it work like a gear but has hard coded limit it has 208 teeths and the small gear has 22 this give us a 10.4:1 gear reduction ratio ![image](https://cdn.hackclub.com/019f00f9-a57f-72bb-9cc2-5dcf9ce5f36b/Capture%20d'%C3%A9cran%202026-06-25%20230858.png)
+after this i added a mount for the stepper motor to attach and adjust![image](https://cdn.hackclub.com/019f0101-056a-704e-9c7f-d402051b43e2/Capture%20d'%C3%A9cran%202026-06-25%20235458.png) this is the final version ![image](https://cdn.hackclub.com/019f0101-6b2b-78bc-abfb-6e8bf2c554c0/Capture%20d'%C3%A9cran%202026-06-25%20234254.png)  this is all for today see you tomorow
+
+---
+
+Jun 26, 2026
+time spent : 2hours
+AHH the electronics phase my favorite phase i started by defining my goals so i can satisfy 100% of my needs 
+1. need to be controlled thru wifi or bluethoot 
+2. control the stepper 
+3. smooth movement 
+4. cheap ( no pcba ) 
+5. no smd components (: (biggest hater) 
+6. cool arts on pcb (((;
+
+
+so here is my answers : 
+i will use esp 32 so i can access it with wifi , i used tmc2209 driver instead of a4988 stepper driver or any other because of what this gentleman on reddit said ![image](https://cdn.hackclub.com/019f04da-00e9-7d7b-a9fd-e6d18dff5b4c/image.png) 
+With that in mind i hopped in easyEDA  and started the schematic ![image](https://cdn.hackclub.com/019f04da-9454-78f9-820a-9c5a5ca96dab/Capture%20d'%C3%A9cran%202026-06-26%20164905.png) layed all the components i need then i put everything together ![image](https://cdn.hackclub.com/019f04da-ead7-75b4-8511-82f91cc480a8/Capture%20d'%C3%A9cran%202026-06-26%20174424.png)
+## pcb routing 
+same technique putting everything in its place then start routing ![image](https://cdn.hackclub.com/019f04db-73df-71cc-bc01-cd1d4244b046/Capture%20d'%C3%A9cran%202026-06-26%20171649.png) ![image](https://cdn.hackclub.com/019f04db-87f3-7862-a28e-7f036cbb11b8/Capture%20d'%C3%A9cran%202026-06-26%20171947.png) bottom layer ![image](https://cdn.hackclub.com/019f04dc-f173-7d3c-ab78-ab25536aacdc/image.png) top layer ![image](https://cdn.hackclub.com/019f04dd-1d0b-7c42-9579-27031ea89395/image.png)here is the result ![image](https://cdn.hackclub.com/019f04dd-95fb-7ef2-b53f-8cd2cd4fdd46/Capture%20d'%C3%A9cran%202026-06-26%20173622.png) now the cool arts section i really enjoyed it this is the back ![image](https://cdn.hackclub.com/019f04de-be15-7e4b-accf-3c9012b210bd/Capture%20d'%C3%A9cran%202026-06-26%20173629.png) this is the front ![image](https://cdn.hackclub.com/019f04de-f637-7655-bc21-f026ea56944f/Capture%20d'%C3%A9cran%202026-06-26%20174325.png)
+---
+Jun 27, 2026
+time spent : 2hours
+
+SO we are almost at the finish line i did some minor changes in cad the pcb is done and i attacked some huge portion of the GitHub Repo i wrote a well structured readme i added the cad files as well as dxf files for laser cutting and the source file for the pcb folder i added everything from schematics to gerber i also designed a logo for this telescope yay ![image](https://cdn.hackclub.com/019f0ab5-a729-7e16-aaf4-141857fb930f/Capture%20d'%C3%A9cran%202026-06-27%20201843.png)  i still need to make a bom revise it and optimize it and then attack the last phase which is FIRMWAREEEE that was all thanks and goodbyeeee !!!
+---
+Jun 28, 2026
+time spent : 1.5hours
+just made a bom in csv format i tried to pick the cheapest things so i can optimize my bom for exemple if something is too expensive i try to find something else less expensive also i structured my repo so its easier and added a firmware folder, for the firmware i used onSTEP its a open source freeware its designed so a telescope can have its goto system ( tracking planets etc) its really well done![image](https://cdn.hackclub.com/019f0f10-882e-7f45-b43f-97d3eb0c7a38/image.png)
