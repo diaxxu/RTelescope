@@ -1,4 +1,4 @@
-# How to Install OnStep on your ESP32
+# How to Install OnSte-p on your ESP32
 
 To get this firmware running on your microcontroller, follow these steps:
 
